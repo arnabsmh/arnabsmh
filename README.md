@@ -22,8 +22,9 @@ Previously, I was an Assistant Professor in the Department of Computer Science a
 ### Collaborative Work
 
 - **[Asomiya (অসমীয়া)](https://github.com/arnabsmh/asomiya)**  
-  A toy programming language written in Assamese with a TypeScript lexer, parser, and interpreter.  
-  *Role: Collaborator & Contributor* (Created by [Debashish Bordoloi](https://github.com/d43ash1sh))
+  An open-source programming language implemented in Assamese with a custom TypeScript lexer, parser, and interpreter.
+  - Contributed to native Assamese vocabulary specification, language design, and bilingual documentation.
+  - Explores native-script parsing and lower barriers to programming education for regional Indic language communities.
 
 ---
 
